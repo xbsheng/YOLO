@@ -1,1 +1,1 @@
-# YOLO
+# YOLO (You Only Look Once) Object Detection Project
